@@ -1,0 +1,8 @@
+#echo "$(ls -l  /etc/)"
+#echo "$(cat /etc/hosts)"
+#echo "$(ls -a $HOME)"
+#echo "$(ls -l -a $HOME)"
+#echo "$(type -a  ls)"
+#echo "$(type -a  history)"
+#echo "$(type -a true)"
+echo "$(type -a echo)"
