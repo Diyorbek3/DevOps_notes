@@ -11,3 +11,4 @@ if [ $? -ne 0 ]
 then
 	mount -t glusterfs "$p" /sharedwww/
 fi
+
